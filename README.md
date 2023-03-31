@@ -1,9 +1,7 @@
-<img src="images/data-analytics-bg.jpg" width="100%" height="250"> 
-<h2 align="center">Hey there, I'm Aika (Aigerim) Zhunussova <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h2>
+<img src="images/bi-data-parcel-postal-e1614244983980.png" width="100%" height="250"> 
+<h2 align="center">Hey there, I'm Aika (Aigerim) Zhunussova</h2>
 <h3 align="center"> Data Analyst </h3>
 <!-- <img width="300" align="left" height="320" src="images/2.png" height="175px"/> -->
-
-Data Analyst
 
 ### 👩🏻‍💻 About Me
 
@@ -19,10 +17,11 @@ Data Analyst
 
 <div id="languages">
 <span><img src="https://img.icons8.com/color/240/000000/python.png" height="50" width="50" /></span>
+<span><img src="https://img.icons8.com/color/48/null/power-bi.png" height="50" width="50" /></span/>
 <span><img src="https://img.icons8.com/color/96/000000/tableau-software.png"  height="50" width="50" /></span>
 <span><img src="https://img.icons8.com/color/240/000000/git.png" height="50" width="50" /></span>
-<span><img src="https://img.icons8.com/color/240/000000/oracle-logo.png" height="50" width="50" /></span>
 <span><img src="https://img.icons8.com/color/240/000000/mysql-logo.png" height="50" width="50" /></span>
 <span><img src="https://img.icons8.com/windows/128/000000/r-project.png" height="50" width="50" /></span/>
-<span><img src="https://img.icons8.com/color/144/000000/hadoop-distributed-file-system.png" height="50" width="50 /></span/>
-<span><img src="https://img.icons8.com/color/144/000000/oracle-logo.png" height="50" width="50 /></span/>
+<span><img src="https://img.icons8.com/color/144/000000/hadoop-distributed-file-system.png" height="50" width="50" /></span/>
+</div>
+  
