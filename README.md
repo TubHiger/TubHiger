@@ -1,11 +1,11 @@
 <img src="images/bi-data-parcel-postal-e1614244983980.png" width="100%" height="250"> 
 <h2 align="center">Hey there, I'm Aika (Aigerim) Zhunussova</h2>
-<h3 align="center"> Data Analyst </h3>
+<h3 align="center">Data Analyst | Data Scientist</h3>
 <!-- <img width="300" align="left" height="320" src="images/2.png" height="175px"/> -->
 
 ### 👩🏻‍💻 About Me
 
-- 👩🏻‍🏫 Master Student in Computer Science at California State University, Los Angeles
+- 👩🏻‍🏫 Master Student in Computer Science at California State University, Channel Islands
 - 👯 Building analytical reports using data wrangling of large and complex datasets
 - 👩🏻‍🎨 Interpreting and analyzing data to draw insights
 - 🌱 Built visualizations using Tableau, Power BI and Python Matplotlib
